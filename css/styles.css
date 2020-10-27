@@ -1,0 +1,21 @@
+body{
+    background: #fffbf7;
+}
+
+.titulo{
+    color: #46484c;
+}
+
+.promocional{
+    color: #8b8b8bcc;
+}
+
+.boton{
+    color: #fff;
+    background: #025157;
+    /* padding: 10px 40px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer; */
+}
